@@ -35,7 +35,7 @@
     "description": "Cliente de YouTube Music parchado (ReVanced), sin anuncios y con reproducción en segundo plano.",
     "tags": ["Música"],
     "version": "8.40.54",
-    "size": "—",
+    "size": "76.3 Mb",
     "updated": "—",
     "accentColor": "0xFFE07A9C",
     "letter": "M",
@@ -50,7 +50,7 @@
     "description": "Implementación libre y de código abierto de los servicios de Google Play, necesaria para que varias apps modificadas funcionen sin la app oficial de Google.",
     "tags": ["Sistema", "Open source"],
     "version": "0.3.13.2",
-    "size": "—",
+    "size": "103 Mb",
     "updated": "—",
     "accentColor": "0xFF7AE0A0",
     "letter": "G",
@@ -71,9 +71,8 @@
     "letter": "Y",
     "icon": "youtube_morphe",
     "githubUrl": "",
-    "packageName": "",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_morphe_v21.04.223_cli1.10.0_p1.35.0.apk
-"
+    "packageName": "app.morphe.android.youtube",
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_morphe_v21.04.223_cli1.10.0_p1.35.0.apk"
   },
   {
     "name": "YouTube Music Morphe",
@@ -81,13 +80,13 @@
     "description": "Variante modificada de YouTube Music, alternativa a la versión ReVanced.",
     "tags": ["Música"],
     "version": "9.15.51",
-    "size": "—",
+    "size": "76.2 Mb",
     "updated": "—",
     "accentColor": "0xFFE0C27A",
     "letter": "M",
     "icon": "youtube_music_morphe",
     "githubUrl": "",
-    "packageName": "",
+    "packageName": "app.morphe.android.apps.youtube.music",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_music_morphe_arm64_v8a_v9.15.51_cli1.10.0_p1.35.0.apk"
   },
   {
@@ -96,7 +95,7 @@
     "description": "Cliente de YouTube liviano y de código abierto, sin anuncios y sin necesidad de cuenta de Google.",
     "tags": ["Video", "Open source"],
     "version": "0.28.8",
-    "size": "—",
+    "size": "10.4 Mb",
     "updated": "—",
     "accentColor": "0xFFE0524A",
     "letter": "N",
@@ -111,13 +110,13 @@
     "description": "Cliente de YouTube pensado para Android TV, sin anuncios.",
     "tags": ["TV", "Video"],
     "version": "31.94",
-    "size": "—",
+    "size": "26.6 Mb",
     "updated": "—",
     "accentColor": "0xFF7A9CE0",
     "letter": "S",
     "icon": "smarttube",
     "githubUrl": "",
-    "packageName": "",
+    "packageName": "com.teamsmart.videomanager.tv",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-25/vanced.to_smarttube_arm64_v8a_v31.94.apk"
   },
   {
@@ -126,13 +125,13 @@
     "description": "Reproductor de video basado en el ecosistema Vanced.",
     "tags": ["Video"],
     "version": "3.1.0.4",
-    "size": "—",
+    "size": "34.6",
     "updated": "—",
     "accentColor": "0xFF9C7AE0",
     "letter": "N",
     "icon": "nyx_player",
     "githubUrl": "",
-    "packageName": "",
+    "packageName": "com.awedea.nyx",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-20/vanced.to_vanced_nyx_player_v3.1.0.4_cli6.0.0_p6.1.1.5.apk"
   },
 
@@ -142,7 +141,7 @@
     "description": "Cliente de VPN de Proton, con cifrado y servidores en varios países.",
     "tags": ["Privacidad"],
     "version": "5.17.10.0",
-    "size": "—",
+    "size": "56 Mb",
     "updated": "—",
     "accentColor": "0xFF7A6EE0",
     "letter": "P",
@@ -178,7 +177,7 @@
     "letter": "T",
     "icon": "telegram",
     "githubUrl": "",
-    "packageName": "",
+    "packageName": "org.telegram.messenger",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-15/vanced.to_vanced_telegram_v12.6.4_cli6.0.0_p2.0.0.apk"
   }
 ]
