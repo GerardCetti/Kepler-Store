@@ -25,7 +25,7 @@
     "accentColor": "0xFFE07A7A",
     "letter": "Y",
     "icon": "youtube_revanced",
-    "githubUrl": "",
+    "githubUrl": "https://github.com/vancedto/vanced.to/releases",
     "packageName": "app.revanced.android.youtube",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_vanced_youtube_v20.40.45_cli6.0.0_p6.1.1.6.apk"
   },
@@ -40,7 +40,7 @@
     "accentColor": "0xFFE07A9C",
     "letter": "M",
     "icon": "youtube_music_revanced",
-    "githubUrl": "",
+    "githubUrl": "https://github.com/vancedto/vanced.to/releases",
     "packageName": "app.revanced.android.apps.youtube.music",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_vanced_youtube_music_arm64_v8a_v8.40.54_cli6.0.0_p6.1.1.6.apk"
   },
