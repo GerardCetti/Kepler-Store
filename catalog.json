@@ -181,6 +181,21 @@
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-15/vanced.to_vanced_telegram_v12.6.4_cli6.0.0_p2.0.0.apk"
   },
   {
+    "name": "TikTok ReVanced",
+    "tagline": "TikTok sin anuncios ni marca de agua",
+    "description": "Versión modificada de TikTok: elimina anuncios, permite descargar videos sin marca de agua y desbloquea funciones extra.",
+    "tags": ["Social", "Video"],
+    "version": "—",
+    "size": "—",
+    "updated": "—",
+    "accentColor": "0xFF7AE0D0",
+    "letter": "T",
+    "icon": "tiktok",
+    "githubUrl": "",
+    "packageName": "com.zhiliaoapp.musically",
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-20/vanced.to_vanced_tiktok_v43.8.3_cli1.9.0.1_p1.0.4.apk"
+  },
+  {
     "name": "Aurora Store",
     "tagline": "Play Store alternativa, sin cuenta Google",
     "description": "Cliente alternativo a Google Play Store: permite descargar apps sin necesidad de iniciar sesión con una cuenta de Google.",
@@ -253,21 +268,6 @@
     "icon": "spotube",
     "githubUrl": "https://github.com/KRTirtho/spotube",
     "packageName": "com.github.krtirtho.spotube",
-    "downloadUrl": "PON_TU_LINK_AQUI"
-  },
-  {
-    "name": "TikTok ReVanced",
-    "tagline": "TikTok sin anuncios ni marca de agua",
-    "description": "Versión modificada de TikTok: elimina anuncios, permite descargar videos sin marca de agua y desbloquea funciones extra.",
-    "tags": ["Social", "Video"],
-    "version": "—",
-    "size": "—",
-    "updated": "—",
-    "accentColor": "0xFF7AE0D0",
-    "letter": "T",
-    "icon": "tiktok",
-    "githubUrl": "",
-    "packageName": "com.zhiliaoapp.musically",
     "downloadUrl": "PON_TU_LINK_AQUI"
   },
   {
