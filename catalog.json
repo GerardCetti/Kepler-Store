@@ -208,7 +208,7 @@
     "icon": "aurora_store",
     "githubUrl": "https://gitlab.com/AuroraOSS/AuroraStore",
     "packageName": "com.aurora.store",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "https://gitlab.com/-/project/6922885/uploads/245eec8867a47057cbc54535f73b32ee/AuroraStore-4.8.4.apk"
   },
   {
     "name": "F-Droid",
@@ -223,7 +223,7 @@
     "icon": "fdroid",
     "githubUrl": "https://github.com/f-droid/fdroidclient",
     "packageName": "org.fdroid.fdroid",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "https://github.com/f-droid/fdroidclient/releases/download/1.18.0/org.fdroid.fdroid_1018050.apk"
   },
   {
     "name": "AdAway",
@@ -238,7 +238,7 @@
     "icon": "adaway",
     "githubUrl": "https://github.com/AdAway/AdAway",
     "packageName": "org.adaway",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "https://github.com/AdAway/AdAway/releases/download/v6.1.4/AdAway-6.1.4-20241027.apk"
   },
   {
     "name": "Instander",
@@ -268,7 +268,7 @@
     "icon": "spotube",
     "githubUrl": "https://github.com/KRTirtho/spotube",
     "packageName": "com.github.krtirtho.spotube",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "https://github.com/KRTirtho/spotube/releases/download/v5.1.2/Spotube-android-all-arch.apk"
   },
   {
     "name": "GBWhatsApp",
@@ -283,7 +283,7 @@
     "icon": "gbwhatsapp",
     "githubUrl": "https://xuperapk.tv/download/1",
     "packageName": "com.gbwhatsapp",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "https://xuperapk.tv/download/1"
   },
   {
     "name": "CapCut",
