@@ -205,7 +205,7 @@
     "updated": "—",
     "accentColor": "0xFF6EE07A",
     "letter": "A",
-    "icon": "aurora_store",
+    "icon": "aurora",
     "githubUrl": "https://gitlab.com/AuroraOSS/AuroraStore",
     "packageName": "com.aurora.store",
     "downloadUrl": "https://gitlab.com/-/project/6922885/uploads/245eec8867a47057cbc54535f73b32ee/AuroraStore-4.8.4.apk"
@@ -265,7 +265,7 @@
     "updated": "—",
     "accentColor": "0xFF7AE0A0",
     "letter": "S",
-    "icon": "spotube",
+    "icon": "truecaller",
     "githubUrl": "",
     "packageName": "com.github.krtirtho.spotube",
     "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/truecaller-arm64-v8a-paresh.apk"
@@ -280,7 +280,7 @@
     "updated": "—",
     "accentColor": "0xFF7AE07A",
     "letter": "G",
-    "icon": "gbwhatsapp",
+    "icon": "xupertv",
     "githubUrl": "https://xuperapk.tv/download/1",
     "packageName": "com.gbwhatsapp",
     "downloadUrl": "https://xuperapk.tv/download/1"
@@ -295,7 +295,7 @@
     "updated": "—",
     "accentColor": "0xFF7A9EE0",
     "letter": "C",
-    "icon": "capcut",
+    "icon": "solidexplorer",
     "githubUrl": "",
     "packageName": "pl.solidexplorer2",
     "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/solid-explorer-hoo-dles.apk"
