@@ -17,7 +17,7 @@
   {
     "name": "YouTube Premium",
     "tagline": "YouTube sin anuncios y con extras",
-    "description": "Cliente de YouTube parchado (ReVanced): bloquea anuncios y suma funciones extra sobre la app oficial. ***Necesario Instalar MicroG***",
+    "description": "Cliente de YouTube parchado (ReVanced): bloquea anuncios y suma funciones extra sobre la app oficial.            ***Necesario Instalar MicroG***",
     "tags": ["Video"],
     "version": "20.40.45",
     "size": "173 Mb",
@@ -32,7 +32,7 @@
 {
     "name": "YouTube Music Premium",
     "tagline": "YouTube Music sin anuncios",
-    "description": "Cliente de YouTube Music parchado (ReVanced), sin anuncios y con reproducción en segundo plano. ***Necesario Instalar MicroG***",
+    "description": "Cliente de YouTube Music parchado (ReVanced), sin anuncios y con reproducción en segundo plano.                 ***Necesario Instalar MicroG***",
     "tags": ["Música"],
     "version": "8.40.54",
     "size": "76.3 Mb",
@@ -62,7 +62,7 @@
   {
     "name": "YouTube Morphe Premium",
     "tagline": "Variante modificada de YouTube",
-    "description": "Otra variante de YouTube modificada, con su propio set de ajustes y funciones sobre la app original. ***Necesario Instalar MicroG***",
+    "description": "Otra variante de YouTube modificada, con su propio set de ajustes y funciones sobre la app original.             ***Necesario Instalar MicroG***",
     "tags": ["Video","Sin Ads"],
     "version": "21.04.223",
     "size": "174 Mb",
@@ -77,7 +77,7 @@
   {
     "name": "YouTube Music Morphe Premium",
     "tagline": "Variante modificada de YouTube Music",
-    "description": "Variante modificada de YouTube Music, alternativa a la versión ReVanced. ***Necesario Instalar MicroG***",
+    "description": "Variante modificada de YouTube Music, alternativa a la versión ReVanced.             ***Necesario Instalar MicroG***",
     "tags": ["Música"],
     "version": "9.15.51",
     "size": "76.2 Mb",
