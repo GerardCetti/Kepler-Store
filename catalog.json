@@ -89,6 +89,36 @@
     "packageName": "app.morphe.android.apps.youtube.music",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_music_morphe_arm64_v8a_v9.15.51_cli1.10.0_p1.35.0.apk"
   },
+    {
+    "name": "Solid Explorer Pro",
+    "tagline": "Explorador de archivos",
+    "description": "Es un cómodo explorador de archivos con el que podrás gestionar todos los ficheros de la memoria de tu terminal o de tu tarjeta SD de una forma tan simple que no volverás a utilizar otra herramienta para navegar por el interior de tu Android.",
+    "tags": ["Archivos", "Explorador"],
+    "version": "3.4.1",
+    "size": "44.6",
+    "updated": "—",
+    "accentColor": "0xFF7A9EE0",
+    "letter": "S",
+    "icon": "solidexplorer",
+    "githubUrl": "",
+    "packageName": "pl.solidexplorer2",
+    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/solid-explorer-hoo-dles.apk"
+  },
+    {
+    "name": "Instander",
+    "tagline": "Instagram modificado con extras",
+    "description": "Variante modificada de Instagram: descarga de fotos y videos, subir sin comprimir y funciones extra sobre la app oficial.",
+    "tags": ["Social"],
+    "version": "18.0",
+    "size": "63.2 Mb",
+    "updated": "—",
+    "accentColor": "0xFFE07AB8",
+    "letter": "I",
+    "icon": "instander",
+    "githubUrl": "",
+    "packageName": "com.instander.android",
+    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/instander_v18.0-6946_beta.apk"
+  },
   {
     "name": "NewPipe",
     "tagline": "Cliente ligero de YouTube, open source",
@@ -195,67 +225,7 @@
     "packageName": "com.zhiliaoapp.musically",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-20/vanced.to_vanced_tiktok_v43.6.2_cli1.9.0.1_p1.0.4.apk"
   },
-  {
-    "name": "Aurora Store",
-    "tagline": "Play Store alternativa, sin cuenta Google",
-    "description": "Cliente alternativo a Google Play Store: permite descargar apps sin necesidad de iniciar sesión con una cuenta de Google.",
-    "tags": ["Utilidad", "Open source"],
-    "version": "4.8.4",
-    "size": "8.9 Mb",
-    "updated": "—",
-    "accentColor": "0xFF6EE07A",
-    "letter": "A",
-    "icon": "aurora",
-    "githubUrl": "https://gitlab.com/AuroraOSS/AuroraStore",
-    "packageName": "com.aurora.store",
-    "downloadUrl": "https://gitlab.com/-/project/6922885/uploads/245eec8867a47057cbc54535f73b32ee/AuroraStore-4.8.4.apk"
-  },
-  {
-    "name": "F-Droid",
-    "tagline": "Tienda de apps 100% open source",
-    "description": "Catálogo de aplicaciones de código abierto para Android, curado y libre de rastreadores.",
-    "tags": ["Utilidad", "Open source"],
-    "version": "1.18",
-    "size": "12.1 Mb",
-    "updated": "—",
-    "accentColor": "0xFF7AC2E0",
-    "letter": "F",
-    "icon": "fdroid",
-    "githubUrl": "https://github.com/f-droid/fdroidclient",
-    "packageName": "org.fdroid.fdroid",
-    "downloadUrl": "https://github.com/f-droid/fdroidclient/releases/download/1.18.0/org.fdroid.fdroid_1018050.apk"
-  },
-  {
-    "name": "AdAway",
-    "tagline": "Bloqueador de anuncios a nivel de sistema",
-    "description": "Bloquea anuncios y rastreadores en toda la app y el sistema mediante una lista de hosts, sin necesidad de VPN.",
-    "tags": ["Privacidad", "Open source"],
-    "version": "6.1.4",
-    "size": "13.3",
-    "updated": "—",
-    "accentColor": "0xFFE0D07A",
-    "letter": "A",
-    "icon": "adaway",
-    "githubUrl": "https://github.com/AdAway/AdAway",
-    "packageName": "org.adaway",
-    "downloadUrl": "https://github.com/AdAway/AdAway/releases/download/v6.1.4/AdAway-6.1.4-20241027.apk"
-  },
-  {
-    "name": "Instander",
-    "tagline": "Instagram modificado con extras",
-    "description": "Variante modificada de Instagram: descarga de fotos y videos, subir sin comprimir y funciones extra sobre la app oficial.",
-    "tags": ["Social"],
-    "version": "18.0",
-    "size": "63.2 Mb",
-    "updated": "—",
-    "accentColor": "0xFFE07AB8",
-    "letter": "I",
-    "icon": "instander",
-    "githubUrl": "",
-    "packageName": "com.instander.android",
-    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/instander_v18.0-6946_beta.apk"
-  },
-  {
+    {
     "name": "Truecaller Premium",
     "tagline": "Aplicacion de llamadas con bloqueo de spam",
     "description": "Truecaller es una aplicación móvil de identificación de llamadas y bloqueo de spam que sirve para identificar números desconocidos, bloquear llamadas molestas y evitar estafas telefónicas.",
@@ -267,10 +237,10 @@
     "letter": "T",
     "icon": "truecaller",
     "githubUrl": "",
-    "packageName": "com.github.krtirtho.spotube",
+    "packageName": "com.truecaller",
     "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/truecaller-arm64-v8a-paresh.apk"
   },
-  {
+    {
     "name": "Xuper TV",
     "tagline": "TV, Peliculas, Series",
     "description": "Xuper TV reúne en un solo lugar lo que te gusta ver y seguir: tv latino, eventos deportivos, películas y series.",
@@ -301,7 +271,7 @@
     "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv.Hydra4KHDR.apk"
   },
   {
-    "name": "Xuper TV N0F4C3",
+    "name": "Xuper TV NF",
     "tagline": "Version Premium de XuperTV",
     "description": "Version completa sin anuncios, para peliculas, series y cine",
     "tags": ["TV", "Cine", "Series", "Peliculas"],
@@ -315,19 +285,49 @@
     "packageName": "com.hevn.app",
     "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv-N0F4C3-v4.34.7.apk"
   },
-  {
-    "name": "Solid Explorer Pro",
-    "tagline": "Explorador de archivos",
-    "description": "Es un cómodo explorador de archivos con el que podrás gestionar todos los ficheros de la memoria de tu terminal o de tu tarjeta SD de una forma tan simple que no volverás a utilizar otra herramienta para navegar por el interior de tu Android.",
-    "tags": ["Archivos", "Explorador"],
-    "version": "3.4.1",
-    "size": "44.6",
+    {
+    "name": "AdAway",
+    "tagline": "Bloqueador de anuncios a nivel de sistema",
+    "description": "Bloquea anuncios y rastreadores en toda la app y el sistema mediante una lista de hosts, sin necesidad de VPN.",
+    "tags": ["Privacidad", "Open source"],
+    "version": "6.1.4",
+    "size": "13.3",
     "updated": "—",
-    "accentColor": "0xFF7A9EE0",
-    "letter": "S",
-    "icon": "solidexplorer",
-    "githubUrl": "",
-    "packageName": "pl.solidexplorer2",
-    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/solid-explorer-hoo-dles.apk"
+    "accentColor": "0xFFE0D07A",
+    "letter": "A",
+    "icon": "adaway",
+    "githubUrl": "https://github.com/AdAway/AdAway",
+    "packageName": "org.adaway",
+    "downloadUrl": "https://github.com/AdAway/AdAway/releases/download/v6.1.4/AdAway-6.1.4-20241027.apk"
+  },
+  {
+    "name": "Aurora Store",
+    "tagline": "Play Store alternativa, sin cuenta Google",
+    "description": "Cliente alternativo a Google Play Store: permite descargar apps sin necesidad de iniciar sesión con una cuenta de Google.",
+    "tags": ["Utilidad", "Open source"],
+    "version": "4.8.4",
+    "size": "8.9 Mb",
+    "updated": "—",
+    "accentColor": "0xFF6EE07A",
+    "letter": "A",
+    "icon": "aurora",
+    "githubUrl": "https://gitlab.com/AuroraOSS/AuroraStore",
+    "packageName": "com.aurora.store",
+    "downloadUrl": "https://gitlab.com/-/project/6922885/uploads/245eec8867a47057cbc54535f73b32ee/AuroraStore-4.8.4.apk"
+  },
+  {
+    "name": "F-Droid",
+    "tagline": "Tienda de apps 100% open source",
+    "description": "Catálogo de aplicaciones de código abierto para Android, curado y libre de rastreadores.",
+    "tags": ["Utilidad", "Open source"],
+    "version": "1.18",
+    "size": "12.1 Mb",
+    "updated": "—",
+    "accentColor": "0xFF7AC2E0",
+    "letter": "F",
+    "icon": "fdroid",
+    "githubUrl": "https://github.com/f-droid/fdroidclient",
+    "packageName": "org.fdroid.fdroid",
+    "downloadUrl": "https://github.com/f-droid/fdroidclient/releases/download/1.18.0/org.fdroid.fdroid_1018050.apk"
   }
 ]
