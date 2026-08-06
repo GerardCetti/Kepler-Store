@@ -393,18 +393,19 @@
     "name": "Duolingo",
     "tagline": "Reproductor multimedia universal, open source",
     "tags": [
-      "Video",
-      "Open source"
+      "Idioma",
+      "Aprendizaje"
     ],
     "version": "—",
     "size": "—",
     "updated": "—",
     "accentColor": "0xFFE07A5C",
-    "letter": "V",
+    "letter": "D",
+    "icon": "duolingo",
     "githubUrl": "https://github.com/videolan/vlc-android",
     "packageName": "com.duolingo",
     "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/duolingo-hoo-dles.apk",
-    "description": "Reproductor de video y audio open source que soporta prácticamente cualquier formato, sin anuncios."
+    "description": "¡Aprende inglés, francés, italiano, portugués, matemáticas, música y más gratis!"
   },
   {
     "name": "Soundcloud",
@@ -418,6 +419,7 @@
     "updated": "—",
     "accentColor": "0xFF6EE0C2",
     "letter": "S",
+    "icon": "soundcloud",
     "githubUrl": "https://github.com/termux/termux-app",
     "packageName": "com.soundcloud.android",
     "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-hoo-dles.apk",
@@ -436,6 +438,7 @@
     "accentColor": "0xFF8A6EE0",
     "letter": "O",
     "githubUrl": "https://github.com/guardianproject/orbot",
+    "icon": "discord",
     "packageName": "com.discord",
     "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/discord-revenge-npatched.apk",
     "description": "Enruta el tráfico de otras apps a través de la red Tor para navegar de forma anónima."
@@ -453,6 +456,7 @@
     "updated": "—",
     "accentColor": "0xFF5C8EE0",
     "letter": "S",
+    "icon": "waze",
     "githubUrl": "https://github.com/signalapp/Signal-Android",
     "packageName": "com.waze",
     "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/waze-rushiranpise.apk",
@@ -470,6 +474,7 @@
     "updated": "—",
     "accentColor": "0xFF7AE0E0",
     "letter": "S",
+    "icon": "nextplayer",
     "githubUrl": "https://github.com/syncthing/syncthing-android",
     "packageName": "dev.anilbeesetti.nextplayer",
     "downloadUrl": "https://github.com/SamAmco/track-and-graph/releases/download/v10.2.2/app-foss-release.apk",
