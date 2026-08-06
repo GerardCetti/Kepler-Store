@@ -2,8 +2,10 @@
   {
     "name": "Kepler TV",
     "tagline": "Streaming propio con reproductor integrado",
-    "description": "App de streaming propia de Kepler Store: catálogo de videos con reproductor integrado (ExoPlayer).",
-    "tags": ["Kotlin", "ExoPlayer"],
+    "tags": [
+      "Kotlin",
+      "ExoPlayer"
+    ],
     "version": "v1.0.0",
     "size": "10.1 Mb",
     "updated": "reciente",
@@ -12,14 +14,15 @@
     "icon": "kepler_tv",
     "githubUrl": "https://github.com/GerardCetti/Kepler-Store",
     "packageName": "com.gerard.streamapp",
-    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/tv/KeplerTV.apk"
+    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/tv/KeplerTV.apk",
+    "description": "App de streaming propia de Kepler Store: catálogo de videos con reproductor integrado (ExoPlayer)."
   },
   {
     "name": "YouTube Premium",
     "tagline": "YouTube sin anuncios y con extras",
-    "description": "Cliente de YouTube parchado (ReVanced): bloquea anuncios y suma funciones extra sobre la app oficial.",
-    "description": "***Necesario Instalar MicroG***",
-    "tags": ["Video"],
+    "tags": [
+      "Video"
+    ],
     "version": "20.40.45",
     "size": "173 Mb",
     "updated": "—",
@@ -28,14 +31,15 @@
     "icon": "youtube_revanced",
     "githubUrl": "https://github.com/vancedto/vanced.to/releases",
     "packageName": "app.revanced.android.youtube",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_vanced_youtube_v20.40.45_cli6.0.0_p6.1.1.6.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_vanced_youtube_v20.40.45_cli6.0.0_p6.1.1.6.apk",
+    "description": "Cliente de YouTube parchado (ReVanced): bloquea anuncios y suma funciones extra sobre la app oficial. ***Necesario Instalar MicroG***"
   },
-{
+  {
     "name": "YouTube Music Premium",
     "tagline": "YouTube Music sin anuncios",
-    "description": "Cliente de YouTube Music parchado (ReVanced), sin anuncios y con reproducción en segundo plano.",
-    "description": "***Necesario Instalar MicroG***",
-    "tags": ["Música"],
+    "tags": [
+      "Música"
+    ],
     "version": "8.40.54",
     "size": "76.3 Mb",
     "updated": "—",
@@ -44,13 +48,16 @@
     "icon": "youtube_music_revanced",
     "githubUrl": "https://github.com/vancedto/vanced.to/releases",
     "packageName": "app.revanced.android.apps.youtube.music",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_vanced_youtube_music_arm64_v8a_v8.40.54_cli6.0.0_p6.1.1.6.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_vanced_youtube_music_arm64_v8a_v8.40.54_cli6.0.0_p6.1.1.6.apk",
+    "description": "Cliente de YouTube Music parchado (ReVanced), sin anuncios y con reproducción en segundo plano. ***Necesario Instalar MicroG***"
   },
   {
     "name": "MicroG",
     "tagline": "Reemplazo libre de Google Play Services",
-    "description": "Implementación libre y de código abierto de los servicios de Google Play, necesaria para que varias apps modificadas funcionen sin la app oficial de Google.",
-    "tags": ["Sistema", "Open source"],
+    "tags": [
+      "Sistema",
+      "Open source"
+    ],
     "version": "0.3.13.2",
     "size": "103 Mb",
     "updated": "—",
@@ -59,14 +66,16 @@
     "icon": "microg",
     "githubUrl": "https://github.com/microg/GmsCore",
     "packageName": "com.google.android.gms",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-8/vanced.to_vanced_gms_microg_v0.3.13.2.250932.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-8/vanced.to_vanced_gms_microg_v0.3.13.2.250932.apk",
+    "description": "Implementación libre y de código abierto de los servicios de Google Play, necesaria para que varias apps modificadas funcionen sin la app oficial de Google."
   },
   {
     "name": "YouTube Morphe Premium",
     "tagline": "Variante modificada de YouTube",
-    "description": "Otra variante de YouTube modificada, con su propio set de ajustes y funciones sobre la app original.",
-    "description": "***Necesario Instalar MicroG***",
-    "tags": ["Video","Sin Ads"],
+    "tags": [
+      "Video",
+      "Sin Ads"
+    ],
     "version": "21.04.223",
     "size": "174 Mb",
     "updated": "—",
@@ -75,14 +84,15 @@
     "icon": "youtube_morphe",
     "githubUrl": "",
     "packageName": "app.morphe.android.youtube",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_morphe_v21.04.223_cli1.10.0_p1.35.0.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_morphe_v21.04.223_cli1.10.0_p1.35.0.apk",
+    "description": "Otra variante de YouTube modificada, con su propio set de ajustes y funciones sobre la app original. ***Necesario Instalar MicroG***"
   },
   {
     "name": "YouTube Music Morphe Premium",
     "tagline": "Variante modificada de YouTube Music",
-    "description": "Variante modificada de YouTube Music, alternativa a la versión ReVanced.",
-    "description": "***Necesario Instalar MicroG***",
-    "tags": ["Música"],
+    "tags": [
+      "Música"
+    ],
     "version": "9.15.51",
     "size": "76.2 Mb",
     "updated": "—",
@@ -91,13 +101,16 @@
     "icon": "youtube_music_morphe",
     "githubUrl": "",
     "packageName": "app.morphe.android.apps.youtube.music",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_music_morphe_arm64_v8a_v9.15.51_cli1.10.0_p1.35.0.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-29/vanced.to_vanced_youtube_music_morphe_arm64_v8a_v9.15.51_cli1.10.0_p1.35.0.apk",
+    "description": "Variante modificada de YouTube Music, alternativa a la versión ReVanced. ***Necesario Instalar MicroG***"
   },
-    {
+  {
     "name": "Solid Explorer Pro",
     "tagline": "Explorador de archivos",
-    "description": "Es un cómodo explorador de archivos con el que podrás gestionar todos los ficheros de la memoria de tu terminal o de tu tarjeta SD de una forma tan simple que no volverás a utilizar otra herramienta para navegar por el interior de tu Android.",
-    "tags": ["Archivos", "Explorador"],
+    "tags": [
+      "Archivos",
+      "Explorador"
+    ],
     "version": "3.4.1",
     "size": "44.6",
     "updated": "—",
@@ -106,13 +119,15 @@
     "icon": "solidexplorer",
     "githubUrl": "",
     "packageName": "pl.solidexplorer2",
-    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/solid-explorer-hoo-dles.apk"
+    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/solid-explorer-hoo-dles.apk",
+    "description": "Es un cómodo explorador de archivos con el que podrás gestionar todos los ficheros de la memoria de tu terminal o de tu tarjeta SD de una forma tan simple que no volverás a utilizar otra herramienta para navegar por el interior de tu Android."
   },
-    {
+  {
     "name": "Instander",
     "tagline": "Instagram modificado con extras",
-    "description": "Variante modificada de Instagram: descarga de fotos y videos, subir sin comprimir y funciones extra sobre la app oficial.",
-    "tags": ["Social"],
+    "tags": [
+      "Social"
+    ],
     "version": "18.0",
     "size": "63.2 Mb",
     "updated": "—",
@@ -121,13 +136,15 @@
     "icon": "instander",
     "githubUrl": "",
     "packageName": "com.instagram.android",
-    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/instander_v18.0-6946_beta.apk"
+    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/instander_v18.0-6946_beta.apk",
+    "description": "Variante modificada de Instagram: descarga de fotos y videos, subir sin comprimir y funciones extra sobre la app oficial."
   },
   {
     "name": "Reddit Premium",
     "tagline": "Cliente oficial de Reddit",
-    "description": "App oficial de Reddit para navegar comunidades y publicaciones.",
-    "tags": ["Social"],
+    "tags": [
+      "Social"
+    ],
     "version": "2024.17.0",
     "size": "56.3 Mb",
     "updated": "—",
@@ -136,13 +153,15 @@
     "icon": "reddit",
     "githubUrl": "",
     "packageName": "com.reddit.frontpage",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_reddit_v2024.17.0_cli5.0.2.2_p5.47.0.16.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-7/vanced.to_vanced_reddit_v2024.17.0_cli5.0.2.2_p5.47.0.16.apk",
+    "description": "App oficial de Reddit para navegar comunidades y publicaciones."
   },
   {
     "name": "Telegram Premium",
     "tagline": "Instalador de variantes Vanced",
-    "description": "Gestor para instalar y actualizar variantes tipo Vanced. Revisa el nombre antes de publicarlo: el ícono no traía un nombre claro en el .rar.",
-    "tags": ["Social"],
+    "tags": [
+      "Social"
+    ],
     "version": "12.6.4",
     "size": "147 Mb",
     "updated": "—",
@@ -151,13 +170,16 @@
     "icon": "telegram",
     "githubUrl": "",
     "packageName": "org.telegram.messenger",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-15/vanced.to_vanced_telegram_v12.6.4_cli6.0.0_p2.0.0.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-15/vanced.to_vanced_telegram_v12.6.4_cli6.0.0_p2.0.0.apk",
+    "description": "Gestor para instalar y actualizar variantes tipo Vanced. Revisa el nombre antes de publicarlo: el ícono no traía un nombre claro en el .rar."
   },
   {
     "name": "TikTok Premium",
     "tagline": "TikTok sin anuncios ni marca de agua",
-    "description": "Versión modificada de TikTok: elimina anuncios, permite descargar videos sin marca de agua y desbloquea funciones extra.",
-    "tags": ["Social", "Video"],
+    "tags": [
+      "Social",
+      "Video"
+    ],
     "version": "43.6.2",
     "size": "469 Mb",
     "updated": "—",
@@ -166,13 +188,16 @@
     "icon": "tiktok",
     "githubUrl": "",
     "packageName": "com.zhiliaoapp.musically",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-20/vanced.to_vanced_tiktok_v43.6.2_cli1.9.0.1_p1.0.4.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-20/vanced.to_vanced_tiktok_v43.6.2_cli1.9.0.1_p1.0.4.apk",
+    "description": "Versión modificada de TikTok: elimina anuncios, permite descargar videos sin marca de agua y desbloquea funciones extra."
   },
-    {
+  {
     "name": "Truecaller Premium",
     "tagline": "Aplicacion de llamadas con bloqueo de spam",
-    "description": "Truecaller es una aplicación móvil de identificación de llamadas y bloqueo de spam que sirve para identificar números desconocidos, bloquear llamadas molestas y evitar estafas telefónicas.",
-    "tags": ["Telefonia", "Open source"],
+    "tags": [
+      "Telefonia",
+      "Open source"
+    ],
     "version": "26.10.6",
     "size": "107 Mb",
     "updated": "—",
@@ -181,13 +206,17 @@
     "icon": "truecaller",
     "githubUrl": "",
     "packageName": "com.truecaller",
-    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/truecaller-arm64-v8a-paresh.apk"
+    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/truecaller-arm64-v8a-paresh.apk",
+    "description": "Truecaller es una aplicación móvil de identificación de llamadas y bloqueo de spam que sirve para identificar números desconocidos, bloquear llamadas molestas y evitar estafas telefónicas."
   },
-    {
+  {
     "name": "Xuper TV",
     "tagline": "TV, Peliculas, Series",
-    "description": "Xuper TV reúne en un solo lugar lo que te gusta ver y seguir: tv latino, eventos deportivos, películas y series.",
-    "tags": ["TV", "Peliculas", "Series"],
+    "tags": [
+      "TV",
+      "Peliculas",
+      "Series"
+    ],
     "version": "6.5.5",
     "size": "48.7 Mb",
     "updated": "—",
@@ -196,13 +225,15 @@
     "icon": "xupertv",
     "githubUrl": "https://xuperapk.tv/download/1",
     "packageName": "com.msandroid.mobile",
-    "downloadUrl": "https://xuperapk.tv/download/1"
+    "downloadUrl": "https://xuperapk.tv/download/1",
+    "description": "Xuper TV reúne en un solo lugar lo que te gusta ver y seguir: tv latino, eventos deportivos, películas y series."
   },
-    {
+  {
     "name": "Xuper TV Hydra",
     "tagline": "Versiona Modificada Xuper TV en 4K y HDR",
-    "description": "Xuper Hydra APK es una aplicación de entretenimiento diseñada para dispositivos Android que permite acceder a una amplia variedad de contenidos, como canales de televisión en vivo, películas, series y eventos deportivos desde una sola plataforma.",
-    "tags": ["Video"],
+    "tags": [
+      "Video"
+    ],
     "version": "4.34.4",
     "size": "34.3",
     "updated": "—",
@@ -211,13 +242,18 @@
     "icon": "xupertvhydra",
     "githubUrl": "",
     "packageName": "com.xuper.netxxus",
-    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv.Hydra4KHDR.apk"
+    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv.Hydra4KHDR.apk",
+    "description": "Xuper Hydra APK es una aplicación de entretenimiento diseñada para dispositivos Android que permite acceder a una amplia variedad de contenidos, como canales de televisión en vivo, películas, series y eventos deportivos desde una sola plataforma."
   },
   {
     "name": "Xuper TV NF",
     "tagline": "Version Premium de XuperTV",
-    "description": "Version completa sin anuncios, para peliculas, series y cine",
-    "tags": ["TV", "Cine", "Series", "Peliculas"],
+    "tags": [
+      "TV",
+      "Cine",
+      "Series",
+      "Peliculas"
+    ],
     "version": "4.34.7",
     "size": "32 Mb",
     "updated": "—",
@@ -226,13 +262,16 @@
     "icon": "xupertvnf",
     "githubUrl": "https://github.com/BLXP-Fyter/Amperfy-iOS",
     "packageName": "com.android.mgstxNF",
-    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv-N0F4C3-v4.34.7.apk"
+    "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv-N0F4C3-v4.34.7.apk",
+    "description": "Version completa sin anuncios, para peliculas, series y cine"
   },
   {
     "name": "NewPipe",
     "tagline": "Cliente ligero de YouTube, open source",
-    "description": "Cliente de YouTube liviano y de código abierto, sin anuncios y sin necesidad de cuenta de Google.",
-    "tags": ["Video", "Open source"],
+    "tags": [
+      "Video",
+      "Open source"
+    ],
     "version": "0.28.8",
     "size": "10.4 Mb",
     "updated": "—",
@@ -241,13 +280,16 @@
     "icon": "newpipe",
     "githubUrl": "https://github.com/TeamNewPipe/NewPipe",
     "packageName": "org.schabi.newpipe",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_newpipe_v0.28.8.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-24/vanced.to_newpipe_v0.28.8.apk",
+    "description": "Cliente de YouTube liviano y de código abierto, sin anuncios y sin necesidad de cuenta de Google."
   },
   {
     "name": "SmartTube",
     "tagline": "Cliente de YouTube para Android TV",
-    "description": "Cliente de YouTube pensado para Android TV, sin anuncios.",
-    "tags": ["TV", "Video"],
+    "tags": [
+      "TV",
+      "Video"
+    ],
     "version": "31.94",
     "size": "26.6 Mb",
     "updated": "—",
@@ -256,13 +298,15 @@
     "icon": "smarttube",
     "githubUrl": "",
     "packageName": "org.smarttube.stable",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-25/vanced.to_smarttube_arm64_v8a_v31.94.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-25/vanced.to_smarttube_arm64_v8a_v31.94.apk",
+    "description": "Cliente de YouTube pensado para Android TV, sin anuncios."
   },
   {
     "name": "Nyx Player Pro",
     "tagline": "Reproductor basado en Vanced",
-    "description": "Reproductor de video basado en el ecosistema Vanced.",
-    "tags": ["Video"],
+    "tags": [
+      "Video"
+    ],
     "version": "3.1.0.4",
     "size": "34.6",
     "updated": "—",
@@ -271,13 +315,15 @@
     "icon": "nyx_player",
     "githubUrl": "",
     "packageName": "com.awedea.nyx",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-20/vanced.to_vanced_nyx_player_v3.1.0.4_cli6.0.0_p6.1.1.5.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-20/vanced.to_vanced_nyx_player_v3.1.0.4_cli6.0.0_p6.1.1.5.apk",
+    "description": "Reproductor de video basado en el ecosistema Vanced."
   },
- {
+  {
     "name": "Proton VPN",
     "tagline": "VPN con cifrado, de Proton",
-    "description": "Cliente de VPN de Proton, con cifrado y servidores en varios países.",
-    "tags": ["Privacidad"],
+    "tags": [
+      "Privacidad"
+    ],
     "version": "5.17.10.0",
     "size": "56 Mb",
     "updated": "—",
@@ -286,13 +332,16 @@
     "icon": "proton_vpn",
     "githubUrl": "",
     "packageName": "ch.protonvpn.android",
-    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-12/vanced.to_vanced_proton_vpn_v5.17.10.0_cli6.0.0_p6.1.0.apk"
+    "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-12/vanced.to_vanced_proton_vpn_v5.17.10.0_cli6.0.0_p6.1.0.apk",
+    "description": "Cliente de VPN de Proton, con cifrado y servidores en varios países."
   },
   {
     "name": "AdAway",
     "tagline": "Bloqueador de anuncios a nivel de sistema",
-    "description": "Bloquea anuncios y rastreadores en toda la app y el sistema mediante una lista de hosts, sin necesidad de VPN.",
-    "tags": ["Privacidad", "Open source"],
+    "tags": [
+      "Privacidad",
+      "Open source"
+    ],
     "version": "6.1.4",
     "size": "13.3",
     "updated": "—",
@@ -301,13 +350,16 @@
     "icon": "adaway",
     "githubUrl": "https://github.com/AdAway/AdAway",
     "packageName": "org.adaway",
-    "downloadUrl": "https://github.com/AdAway/AdAway/releases/download/v6.1.4/AdAway-6.1.4-20241027.apk"
+    "downloadUrl": "https://github.com/AdAway/AdAway/releases/download/v6.1.4/AdAway-6.1.4-20241027.apk",
+    "description": "Bloquea anuncios y rastreadores en toda la app y el sistema mediante una lista de hosts, sin necesidad de VPN."
   },
   {
     "name": "Aurora Store",
     "tagline": "Play Store alternativa, sin cuenta Google",
-    "description": "Cliente alternativo a Google Play Store: permite descargar apps sin necesidad de iniciar sesión con una cuenta de Google.",
-    "tags": ["Utilidad", "Open source"],
+    "tags": [
+      "Utilidad",
+      "Open source"
+    ],
     "version": "4.8.4",
     "size": "8.9 Mb",
     "updated": "—",
@@ -316,13 +368,16 @@
     "icon": "aurora",
     "githubUrl": "https://gitlab.com/AuroraOSS/AuroraStore",
     "packageName": "com.aurora.store",
-    "downloadUrl": "https://gitlab.com/-/project/6922885/uploads/245eec8867a47057cbc54535f73b32ee/AuroraStore-4.8.4.apk"
+    "downloadUrl": "https://gitlab.com/-/project/6922885/uploads/245eec8867a47057cbc54535f73b32ee/AuroraStore-4.8.4.apk",
+    "description": "Cliente alternativo a Google Play Store: permite descargar apps sin necesidad de iniciar sesión con una cuenta de Google."
   },
   {
     "name": "F-Droid",
     "tagline": "Tienda de apps 100% open source",
-    "description": "Catálogo de aplicaciones de código abierto para Android, curado y libre de rastreadores.",
-    "tags": ["Utilidad", "Open source"],
+    "tags": [
+      "Utilidad",
+      "Open source"
+    ],
     "version": "1.18",
     "size": "12.1 Mb",
     "updated": "—",
@@ -331,88 +386,16 @@
     "icon": "fdroid",
     "githubUrl": "https://github.com/f-droid/fdroidclient",
     "packageName": "org.fdroid.fdroid",
-    "downloadUrl": "https://github.com/f-droid/fdroidclient/releases/download/1.18.0/org.fdroid.fdroid_1018050.apk"
-  },
-  {
-    "name": "XuperTV",
-    "tagline": "IPTV y streaming de películas y series",
-    "description": "App de streaming con canales en vivo (IPTV) y catálogo de películas y series.",
-    "tags": ["TV", "Video"],
-    "version": "—",
-    "size": "—",
-    "updated": "—",
-    "accentColor": "0xFF7AC8E0",
-    "letter": "X",
-    "icon": "xupertv",
-    "githubUrl": "",
-    "packageName": "",
-    "downloadUrl": "PON_TU_LINK_AQUI"
-  },
-  {
-    "name": "XuperTV Hydra",
-    "tagline": "Variante de XuperTV con fuentes alternativas",
-    "description": "Fork de XuperTV con un conjunto distinto de fuentes de streaming.",
-    "tags": ["TV", "Video"],
-    "version": "—",
-    "size": "—",
-    "updated": "—",
-    "accentColor": "0xFF7A8EE0",
-    "letter": "X",
-    "icon": "xupertvhydra",
-    "githubUrl": "",
-    "packageName": "",
-    "downloadUrl": "PON_TU_LINK_AQUI"
-  },
-  {
-    "name": "XuperTVNF",
-    "tagline": "Otra variante de XuperTV",
-    "description": "Variante adicional de XuperTV, con su propio conjunto de ajustes y fuentes.",
-    "tags": ["TV", "Video"],
-    "version": "—",
-    "size": "—",
-    "updated": "—",
-    "accentColor": "0xFF7AA8E0",
-    "letter": "X",
-    "icon": "xupertvnf",
-    "githubUrl": "",
-    "packageName": "",
-    "downloadUrl": "PON_TU_LINK_AQUI"
-  },
-  {
-    "name": "TrueCaller",
-    "tagline": "Identificador de llamadas y bloqueo de spam",
-    "description": "App oficial para identificar números desconocidos y bloquear llamadas y SMS de spam.",
-    "tags": ["Utilidad"],
-    "version": "—",
-    "size": "—",
-    "updated": "—",
-    "accentColor": "0xFF2A8EE0",
-    "letter": "T",
-    "icon": "truecaller",
-    "githubUrl": "",
-    "packageName": "com.truecaller",
-    "downloadUrl": "PON_TU_LINK_AQUI"
-  },
-  {
-    "name": "Solid Explorer",
-    "tagline": "Explorador de archivos con soporte para la nube",
-    "description": "Gestor de archivos con interfaz de dos paneles, soporte para FTP/SFTP/WebDAV y almacenamiento en la nube.",
-    "tags": ["Utilidad"],
-    "version": "—",
-    "size": "—",
-    "updated": "—",
-    "accentColor": "0xFFE0A87A",
-    "letter": "S",
-    "icon": "solidexplorer",
-    "githubUrl": "",
-    "packageName": "pl.solidexplorer2",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "https://github.com/f-droid/fdroidclient/releases/download/1.18.0/org.fdroid.fdroid_1018050.apk",
+    "description": "Catálogo de aplicaciones de código abierto para Android, curado y libre de rastreadores."
   },
   {
     "name": "VLC",
     "tagline": "Reproductor multimedia universal, open source",
-    "description": "Reproductor de video y audio open source que soporta prácticamente cualquier formato, sin anuncios.",
-    "tags": ["Video", "Open source"],
+    "tags": [
+      "Video",
+      "Open source"
+    ],
     "version": "—",
     "size": "—",
     "updated": "—",
@@ -420,13 +403,16 @@
     "letter": "V",
     "githubUrl": "https://github.com/videolan/vlc-android",
     "packageName": "org.videolan.vlc",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "PON_TU_LINK_AQUI",
+    "description": "Reproductor de video y audio open source que soporta prácticamente cualquier formato, sin anuncios."
   },
   {
     "name": "Termux",
     "tagline": "Emulador de terminal Linux para Android",
-    "description": "Entorno de terminal y colección de paquetes Linux para Android, sin necesidad de root.",
-    "tags": ["Utilidad", "Open source"],
+    "tags": [
+      "Utilidad",
+      "Open source"
+    ],
     "version": "—",
     "size": "—",
     "updated": "—",
@@ -434,13 +420,16 @@
     "letter": "T",
     "githubUrl": "https://github.com/termux/termux-app",
     "packageName": "com.termux",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "PON_TU_LINK_AQUI",
+    "description": "Entorno de terminal y colección de paquetes Linux para Android, sin necesidad de root."
   },
   {
     "name": "Orbot",
     "tagline": "Proxy Tor para anonimizar tu conexión",
-    "description": "Enruta el tráfico de otras apps a través de la red Tor para navegar de forma anónima.",
-    "tags": ["Privacidad", "Open source"],
+    "tags": [
+      "Privacidad",
+      "Open source"
+    ],
     "version": "—",
     "size": "—",
     "updated": "—",
@@ -448,13 +437,17 @@
     "letter": "O",
     "githubUrl": "https://github.com/guardianproject/orbot",
     "packageName": "org.torproject.android",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "PON_TU_LINK_AQUI",
+    "description": "Enruta el tráfico de otras apps a través de la red Tor para navegar de forma anónima."
   },
   {
     "name": "Signal",
     "tagline": "Mensajería cifrada de extremo a extremo",
-    "description": "App de mensajería open source con cifrado de extremo a extremo por defecto.",
-    "tags": ["Social", "Privacidad", "Open source"],
+    "tags": [
+      "Social",
+      "Privacidad",
+      "Open source"
+    ],
     "version": "—",
     "size": "—",
     "updated": "—",
@@ -462,13 +455,16 @@
     "letter": "S",
     "githubUrl": "https://github.com/signalapp/Signal-Android",
     "packageName": "org.thoughtcrime.securesms",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "PON_TU_LINK_AQUI",
+    "description": "App de mensajería open source con cifrado de extremo a extremo por defecto."
   },
   {
     "name": "Syncthing",
     "tagline": "Sincronización de archivos P2P, sin nube",
-    "description": "Sincroniza carpetas entre dispositivos de forma directa y cifrada, sin pasar por servidores de terceros.",
-    "tags": ["Utilidad", "Open source"],
+    "tags": [
+      "Utilidad",
+      "Open source"
+    ],
     "version": "—",
     "size": "—",
     "updated": "—",
@@ -476,6 +472,7 @@
     "letter": "S",
     "githubUrl": "https://github.com/syncthing/syncthing-android",
     "packageName": "com.nutomic.syncthingandroid",
-    "downloadUrl": "PON_TU_LINK_AQUI"
+    "downloadUrl": "PON_TU_LINK_AQUI",
+    "description": "Sincroniza carpetas entre dispositivos de forma directa y cifrada, sin pasar por servidores de terceros."
   }
 ]
