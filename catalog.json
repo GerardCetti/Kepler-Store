@@ -11,7 +11,7 @@
     "letter": "K",
     "icon": "kepler_tv",
     "githubUrl": "https://github.com/GerardCetti/Kepler-Store",
-    "packageName": "com.keplerstore.tv",
+    "packageName": "com.gerard.streamapp",
     "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/tv/KeplerTV.apk"
   },
   {
@@ -120,7 +120,7 @@
     "letter": "I",
     "icon": "instander",
     "githubUrl": "",
-    "packageName": "com.instander.android",
+    "packageName": "com.instagram.android",
     "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/instander_v18.0-6946_beta.apk"
   },
   {
@@ -195,7 +195,7 @@
     "letter": "X",
     "icon": "xupertv",
     "githubUrl": "https://xuperapk.tv/download/1",
-    "packageName": "com.blcksparrow.xupertv",
+    "packageName": "com.msandroid.mobile",
     "downloadUrl": "https://xuperapk.tv/download/1"
   },
     {
@@ -210,7 +210,7 @@
     "letter": "X",
     "icon": "xupertvhydra",
     "githubUrl": "",
-    "packageName": "com.epix.playvideoplayer",
+    "packageName": "com.xuper.netxxus",
     "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv.Hydra4KHDR.apk"
   },
   {
@@ -225,7 +225,7 @@
     "letter": "X",
     "icon": "xupertvnf",
     "githubUrl": "https://github.com/BLXP-Fyter/Amperfy-iOS",
-    "packageName": "com.hevn.app",
+    "packageName": "com.android.mgstxNF",
     "downloadUrl": "https://github.com/GerardCetti/Kepler-Store/releases/download/Apps/XuperTv-N0F4C3-v4.34.7.apk"
   },
   {
@@ -255,7 +255,7 @@
     "letter": "S",
     "icon": "smarttube",
     "githubUrl": "",
-    "packageName": "com.teamsmart.videomanager.tv",
+    "packageName": "org.smarttube.stable",
     "downloadUrl": "https://github.com/vancedto/vanced.to/releases/download/2026-25/vanced.to_smarttube_arm64_v8a_v31.94.apk"
   },
   {
