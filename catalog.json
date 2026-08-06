@@ -390,7 +390,7 @@
     "description": "Catálogo de aplicaciones de código abierto para Android, curado y libre de rastreadores."
   },
   {
-    "name": "VLC",
+    "name": "Duolingo",
     "tagline": "Reproductor multimedia universal, open source",
     "tags": [
       "Video",
@@ -402,12 +402,12 @@
     "accentColor": "0xFFE07A5C",
     "letter": "V",
     "githubUrl": "https://github.com/videolan/vlc-android",
-    "packageName": "org.videolan.vlc",
-    "downloadUrl": "PON_TU_LINK_AQUI",
+    "packageName": "com.duolingo",
+    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/duolingo-hoo-dles.apk",
     "description": "Reproductor de video y audio open source que soporta prácticamente cualquier formato, sin anuncios."
   },
   {
-    "name": "Termux",
+    "name": "Soundcloud",
     "tagline": "Emulador de terminal Linux para Android",
     "tags": [
       "Utilidad",
@@ -417,14 +417,14 @@
     "size": "—",
     "updated": "—",
     "accentColor": "0xFF6EE0C2",
-    "letter": "T",
+    "letter": "S",
     "githubUrl": "https://github.com/termux/termux-app",
-    "packageName": "com.termux",
-    "downloadUrl": "PON_TU_LINK_AQUI",
+    "packageName": "com.soundcloud.android",
+    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/soundcloud-hoo-dles.apk",
     "description": "Entorno de terminal y colección de paquetes Linux para Android, sin necesidad de root."
   },
   {
-    "name": "Orbot",
+    "name": "Discord",
     "tagline": "Proxy Tor para anonimizar tu conexión",
     "tags": [
       "Privacidad",
@@ -436,12 +436,12 @@
     "accentColor": "0xFF8A6EE0",
     "letter": "O",
     "githubUrl": "https://github.com/guardianproject/orbot",
-    "packageName": "org.torproject.android",
-    "downloadUrl": "PON_TU_LINK_AQUI",
+    "packageName": "com.discord",
+    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/discord-revenge-npatched.apk",
     "description": "Enruta el tráfico de otras apps a través de la red Tor para navegar de forma anónima."
   },
   {
-    "name": "Signal",
+    "name": "Waze",
     "tagline": "Mensajería cifrada de extremo a extremo",
     "tags": [
       "Social",
@@ -454,12 +454,12 @@
     "accentColor": "0xFF5C8EE0",
     "letter": "S",
     "githubUrl": "https://github.com/signalapp/Signal-Android",
-    "packageName": "org.thoughtcrime.securesms",
-    "downloadUrl": "PON_TU_LINK_AQUI",
+    "packageName": "com.waze",
+    "downloadUrl": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/waze-rushiranpise.apk",
     "description": "App de mensajería open source con cifrado de extremo a extremo por defecto."
   },
   {
-    "name": "Syncthing",
+    "name": "Nextplayer",
     "tagline": "Sincronización de archivos P2P, sin nube",
     "tags": [
       "Utilidad",
@@ -471,8 +471,8 @@
     "accentColor": "0xFF7AE0E0",
     "letter": "S",
     "githubUrl": "https://github.com/syncthing/syncthing-android",
-    "packageName": "com.nutomic.syncthingandroid",
-    "downloadUrl": "PON_TU_LINK_AQUI",
+    "packageName": "dev.anilbeesetti.nextplayer",
+    "downloadUrl": "https://github.com/SamAmco/track-and-graph/releases/download/v10.2.2/app-foss-release.apk",
     "description": "Sincroniza carpetas entre dispositivos de forma directa y cifrada, sin pasar por servidores de terceros."
   }
 ]
