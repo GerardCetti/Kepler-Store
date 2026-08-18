@@ -1,0 +1,32 @@
+name: ClimaApp
+options:
+  bundleIdPrefix: com.tuusuario.climaapp
+  deploymentTarget:
+    iOS: "16.0"
+settings:
+  base:
+    DEVELOPMENT_TEAM: ""
+    CODE_SIGN_STYLE: Automatic
+targets:
+  ClimaApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "16.0"
+    sources:
+      - ClimaApp
+    info:
+      path: ClimaApp/Info.plist
+      properties:
+        UILaunchScreen: {}
+        NSLocationWhenInUseUsageDescription: "ClimaApp usa tu ubicación para mostrarte el clima de donde estás."
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+        CFBundleShortVersionString: "1.0"
+        CFBundleVersion: "1"
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.tuusuario.climaapp
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        TARGETED_DEVICE_FAMILY: "1"
+        SWIFT_VERSION: "5.0"
